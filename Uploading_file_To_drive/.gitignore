@@ -1,0 +1,5 @@
+#Ignore Node.js Modules
+node_modules/
+#Ignore environment files
+.env
+googlekey.json
